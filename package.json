@@ -7,6 +7,7 @@
   "types": "dist/cl-privacy-components.cjs.d.ts",
   "files": [
     "README.md",
+    "styles.css",
     "dist",
     "alert",
     "alert-dialog",
