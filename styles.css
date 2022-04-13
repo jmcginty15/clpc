@@ -126,8 +126,9 @@
     0 5px 10px rgba(0, 0, 0, 0.05);
   --box-shadow-4: 0 20px 40px rgba(0, 0, 0, 0.2);
 
-  --font-family-0: "Inter", -apple-system, "Segoe UI", Helvetica Neue, Helvetica,
-    Roboto, Arial, sans-serif, system-ui, "Apple Color Emoji", "Segoe UI Emoji";
+  --font-family-0: "Roboto", -apple-system, "Segoe UI", Helvetica Neue,
+    Helvetica, Arial, sans-serif, system-ui, "Apple Color Emoji",
+    "Segoe UI Emoji";
 }
 
 /* TODO */
