@@ -114,6 +114,10 @@
     "Segoe UI Emoji";
 }
 
+body {
+  accent-color: var(--color-primary);
+}
+
 /* TODO */
 /* :-moz-focusring {
   outline: auto;
