@@ -1,10 +1,10 @@
 :root {
-  --color-primary-lll: hsl(265.3, 76.9%, 96%);
-  --color-primary-ll: hsl(265.3, 76.9%, 91%);
-  --color-primary-l: hsl(265.3, 76.9%, 60%);
-  --color-primary: hsl(265.3, 76.9%, 40%);
-  --color-primary-d: hsl(265.3, 76.9%, 22%);
-  --color-primary-dd: hsl(265.3, 76.9%, 13%);
+  --color-primary-lll: hsl(240, 100%, 96.013%);
+  --color-primary-ll: hsl(240, 100%, 91.033%);
+  --color-primary-l: hsl(240, 100%, 60.133%);
+  --color-primary: hsl(240, 100%, 40.2%);
+  --color-primary-d: hsl(240, 100%, 22.11%);
+  --color-primary-dd: hsl(240, 100%, 13.065%);
 
   /* --color-secondary: rgb(220, 0, 234); */
   --color-secondary: hsl(343.6, 78%, 49.8%);
